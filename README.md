@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fadliaminhr
 - 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning Katalon Studio
+- 🌱 I’m currently learning Katalon Studio And Cypress 
 
 
 <!---
